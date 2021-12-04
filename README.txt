@@ -1,5 +1,7 @@
 Luca Schram , Assignment 10.1 README File
 
+Github Link: https://github.com/Asphodelaceae/planner-class/tree/main
+
 Class Documentation
 
 1) Overall Description
